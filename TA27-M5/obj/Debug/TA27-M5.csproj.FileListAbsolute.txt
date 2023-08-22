@@ -1,0 +1,7 @@
+E:\VS Proyectos\TA27-M5\obj\Debug\TA27-M5.csproj.AssemblyReference.cache
+E:\VS Proyectos\TA27-M5\obj\Debug\TA27-M5.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\TA27-M5\bin\Debug\TA27-M5.exe.config
+E:\VS Proyectos\TA27-M5\bin\Debug\TA27-M5.exe
+E:\VS Proyectos\TA27-M5\bin\Debug\TA27-M5.pdb
+E:\VS Proyectos\TA27-M5\obj\Debug\TA27-M5.exe
+E:\VS Proyectos\TA27-M5\obj\Debug\TA27-M5.pdb
